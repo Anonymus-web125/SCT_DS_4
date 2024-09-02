@@ -5,10 +5,10 @@ This repository contains a project from my Data Science internship at SkillCraft
 
 ### Contents
 Jupyter Notebook: The analysis, visualization, and insights are documented in a Jupyter notebook (SCT_DS_4.ipynb).
-Dataset: The traffic accident dataset (.csv) is included in the repository.
+Dataset: The traffic accident dataset (RTA Dataset.csv) is included in the repository.
 ### Project Structure
 SCT_DS_4.ipynb: This notebook contains the code for data preprocessing, analysis, and visualization.
-traffic_accidents.csv: The dataset used for the analysis.
+RTA Dataset.csv: The dataset used for the analysis.
 ### Data Preprocessing
 The dataset was cleaned and preprocessed to ensure the accuracy of the analysis. Key steps included:
 
@@ -35,5 +35,8 @@ Open the SCT_DS_4.ipynb notebook in Jupyter and run the cells to explore the ana
 ### Conclusion
 This project provides valuable insights into the factors contributing to traffic accidents, with a focus on road conditions, weather, and time of day. The visualizations of accident hotspots and contributing factors can help in designing targeted interventions to reduce accident rates.
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
+### Contributing
+If you'd like to contribute to this project, please fork the repository and submit a pull request.
+
+### Contact
+For any questions or feedback, feel free to contact me at bikashkumargiri23@gmail.com.
